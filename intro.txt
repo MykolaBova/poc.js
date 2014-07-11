@@ -1,0 +1,11 @@
+
+
+- example
+https://github.com/akorchan/node-angular
+
+- video
+http://learn.javascript.ru/nodejs-screencast
+
+- articles for beginners
+http://learn.javascript.ru/
+
