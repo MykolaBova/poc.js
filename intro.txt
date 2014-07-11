@@ -1,5 +1,7 @@
 
 
+Learning js from scratch
+
 - example
 https://github.com/akorchan/node-angular
 
@@ -8,4 +10,30 @@ http://learn.javascript.ru/nodejs-screencast
 
 - articles for beginners
 http://learn.javascript.ru/
+
+!!!
+- course video paid
+https://www.codeschool.com/
+	http://javascript-roadtrip.codeschool.com/levels/2/challenges/2
+
+- free video course
+http://www.codecademy.com/en/tracks/javascript
+
+-- Books
+JavaScript: The Good Parts
+http://shop.oreilly.com/product/9780596517748.do
+
+* JavaScript Allongé
+https://leanpub.com/javascript-allonge
+
+-- Angular js books
+Mastering Web Application Development with AngularJS
+http://www.packtpub.com/angularjs-web-application-development/book?tag=dp/masteringwebwithangularjs-abr1/0913
+
+ng-book.
+The in-depth, complete, and up-to-date book on Angular. Become an AngularJS expert today.
+https://www.ng-book.com/
+
+- Angular screen cast (paid)
+https://egghead.io/
 
